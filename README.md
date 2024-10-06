@@ -63,7 +63,7 @@ Here’s a list of the scripts and their functionalities:
 Here are some helpful resources I used while learning OpenCV:
 
 - [OpenCV Official Documentation](https://docs.opencv.org)
-- [OpenCV Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+- [OpenCV Python Tutorials](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=10368s&ab_channel=freeCodeCamp.org)
 - [OpenCV on GitHub](https://github.com/opencv/opencv)
 - [Real Python - OpenCV Guide](https://realpython.com/)
 
