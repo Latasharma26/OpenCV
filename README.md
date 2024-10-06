@@ -48,7 +48,6 @@ Here’s a list of the scripts and their functionalities:
 - **draw.py**: Demonstrates how to draw basic shapes (like circles, rectangles) on images.
 - **eye_detect.py**: Detects eyes in images using Haar Cascades.
 - **face_detect.py**: Basic face detection using pre-trained Haar Cascades.
-- **faces_train.py**: Script to train a face detection model using OpenCV.
 - **gradients.py**: Demonstrates gradient operations (Sobel, Laplacian) for edge detection.
 - **haar_face.xml, haarcascade_eye.xml, haarcascade_frontalface_default.xml, haarcascade_smile.xml**: Pre-trained Haar Cascades for face, eye, and smile detection.
 - **histogram.py**: Applies histogram equalization for improving image contrast.
